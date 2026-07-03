@@ -31,6 +31,18 @@ Complaint Database using:
 
 ---
 
+
+## Dataset
+
+The dataset is hosted on Kaggle because it exceeds GitHub's file size limits.
+
+Dataset:
+
+https://www.kaggle.com/datasets/deveks2025/financial-complaint-dataset
+
+After downloading, place the dataset in the `dataset/` folder before running the notebook.
+
+
 ## Requirements
 
 
